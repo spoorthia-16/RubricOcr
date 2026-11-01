@@ -1,0 +1,10 @@
+# Dimension configurations for Excel generation
+
+MIN_COLUMN_WIDTH = 8
+MAX_COLUMN_WIDTH = 40
+
+MIN_ROW_HEIGHT = 18
+MAX_ROW_HEIGHT = 80
+
+CHARACTER_WIDTH_FACTOR = 1.2
+ROW_HEIGHT_PER_LINE = 18
