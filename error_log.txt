@@ -1,0 +1,2 @@
+Pipeline Failed at Stage: EXCEL
+Reason: [Errno 13] Permission denied: 'C:\\Users\\spoor\\EXCEL works\\Project1\\backend\\debug\\DOC_2\\12_generated.xlsx'
